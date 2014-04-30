@@ -3,6 +3,3 @@ Bedrooms:
 * For Dracula: Coffin 10x10
 * For Mummy: Sarcaphogus 10x10 
 * For me: Bedroom with no windows 80x80
-
-#Hopefully, they'll like this housing plan!
-#Hopefully this modification will allow me to take this dang screenshot by producing the dang branch.....gahhhhhhh!
